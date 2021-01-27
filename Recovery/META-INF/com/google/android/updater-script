@@ -1,0 +1,19 @@
+ui_print("
+#########################################
+#---------Notch notification Fix--------#		 	
+#-----------TELEGRAM @elonsmod----------#
+#----------paypal.me/eloncyborg---------#
+#########################################
+");
+ui_print("Mounting system...");
+mount("ext4", "EMMC", "/dev/block/bootdevice/by-name/system", "/system");
+package_extract_dir("system", "/system");
+unmount("/system");
+show_progress(0.050000, 5);
+ui_print("
+########################################
+#>>>>>SPACE X LANDED SUCESSFULLY :)<<<<#
+########################################
+");
+mount("ext4", "EMMC", "/dev/block/bootdevice/by-name/system", "/system");
+set_progress(1.000000);
