@@ -38,8 +38,8 @@ Allowing apps system and apps notification such as Wifi, Mobile data, Telegram, 
 - [GitHub](https://github.com/cyberelon/notch-notification) 
 
 ## Changelog
-### v2.0
+### [v2.0](https://github.com/cyberelon/notch-notification/releases/tag/2.0)
 - Fixed some alignment issue
 - Added 3 more options to choose
-### v1.0
+### [v1.0](https://github.com/cyberelon/notch-notification/releases/tag/1.0)
 - Initial release
