@@ -22,16 +22,16 @@ Allowing apps system and apps notification such as Wifi, Mobile data, Telegram, 
 ## Screenshots
 
 <p align="center">
-  <img width="1080" height="115" src="https://github.com/cyberelon/notch-notification/blob/main/IMG/0.png">
   Default
-  <img width="1080" height="115" src="https://github.com/cyberelon/notch-notification/blob/main/IMG/1.png">
+  <img width="1080" height="115" src="https://github.com/cyberelon/notch-notification/blob/main/IMG/0.png">
   Notification
-  <img width="1080" height="115" src="https://github.com/cyberelon/notch-notification/blob/main/IMG/2.png">
+  <img width="1080" height="115" src="https://github.com/cyberelon/notch-notification/blob/main/IMG/1.png">
   Notification 2
-  <img width="1080" height="115" src="https://github.com/cyberelon/notch-notification/blob/main/IMG/3.png">
+  <img width="1080" height="115" src="https://github.com/cyberelon/notch-notification/blob/main/IMG/2.png">
   Notification 3
+  <img width="1080" height="115" src="https://github.com/cyberelon/notch-notification/blob/main/IMG/3.png">
+  Notification No Notch
   <img width="1080" height="115" src="https://github.com/cyberelon/notch-notification/blob/main/IMG/4.png">
-  Notification No notch
 </p>
 
 ## Links
