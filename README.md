@@ -19,6 +19,15 @@ Allowing apps system and apps notification such as Wifi, Mobile data, Telegram, 
 3. Enable by selecting Notification in your device's display cutout settings
 4. Enjoy!
 
+## Screenshots
+
+<p align="center">
+  <img width="1080" height="115" src="https://raw.githubusercontent.com/cyberelon/notch-notification/blob/main/IMG/Screenshot_20210130-094705~2.png">
+  <img width="1080" height="115" src="https://raw.githubusercontent.com/cyberelon/notch-notification/blob/main/IMG/Screenshot_20210130-094709~2.png">
+  <img width="1080" height="115" src="https://raw.githubusercontent.com/cyberelon/notch-notification/blob/main/IMG/Screenshot_20210130-094711~2.png">
+  <img width="1080" height="115" src="https://raw.githubusercontent.com/cyberelon/notch-notification/blob/main/IMG/Screenshot_20210130-094714~2.png">
+</p>
+
 ## Links
 - [GitHub](https://github.com/cyberelon/notch-notification) 
 
